@@ -2,7 +2,7 @@
 PS C:\Users\Documents\GitHub\Viet_Hung_Pham> Hello World, Gamers! 👋 
 ```
 
-<p align="left">
+<p>
   <a href="https://github.com/HungVPham">
     <img src="https://komarev.com/ghpvc/?username=HungVPham" alt="page views">
   </a>
@@ -11,20 +11,36 @@ PS C:\Users\Documents\GitHub\Viet_Hung_Pham> Hello World, Gamers! 👋
   </a>
 </p>
 
-<a href="/">
-  <img src="https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true&theme=react" alt="HungVPham" align="right" />
-</a>
+<table>
+<tr>
+<td width="50%">
 
-- :house: I'm currently operating out of Massachusetts, MA.
-- :computer: Computer nerd since 2008. Full-time software engineer since 2020. 
-- :dart: Looking for full-time opportunities while honing my skills with side-projects.
-  
-<a href="/">
-  <img src="https://github-readme-steam-status.vercel.app/status/?steamid=76561198241297500&show_recent_game_bg=true" align="left" padding-right="10px" />
-</a>
+## About Lil' Ole Me
+- :house: Currently based in Wrocester, MA.
+- :computer: Computer nerd since 2008. Full-time software engineer since 2020.
+- :dart: Seeking full-time opportunities while honing my skills with side-projects.
 
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true&theme=react" alt="GitHub Stats">
+</td>
+</tr>
+</table>
 
-- :video_game: Favorite genres: Everything RPGs (ARPG, CRPG, etc...) and SoulsLike. Also, unfortunately, League of Legends.
-- 🎖️ GOATs (objective): Witcher 3, Baldur's Gate 3, Elden Ring, Sekiro.
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-steam-status.vercel.app/status/?steamid=76561198241297500&show_recent_game_bg=true" alt="Steam Status">
+</td>
+<td width="50%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>Parting words:</b> we're all in this together, you <b>matter</b> and you are <b>heard</b>. big hugs and kisses. </em></img>
+## Unsolicited Opinions on Games
+- :video_game: Favorite genres: RPGs (ARPG, CRPG) and SoulsLike. Also, unfortunately, League of Legends.
+- 🎖️ GOATs (Objective, in this order): Witcher 3, Baldur's Gate 3, Elden Ring, Sekiro.
+
+</td>
+</tr>
+</table>
+
+---
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">*Parting words: we're all in this together, you **matter** and you are **heard**. big hugs and kisses.* 🤗
