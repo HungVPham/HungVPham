@@ -12,4 +12,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true" />
 </picture>
 
-<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198241297500&show_in_game_bg=false&show_recent_game_bg=true)"/>
+<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198241297500&show_recent_game_bg=true"/>
