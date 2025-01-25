@@ -18,11 +18,13 @@ PS C:\Users\Documents\GitHub\Viet_Hung_Pham> Hello World, Gamers! 👋
 - :house: I'm currently operating out of Massachusetts, MA.
 - :computer: Computer nerd since 2008. Full-time software engineer since 2020. 
 - :dart: Looking for full-time opportunities while honing my skills with side-projects.
-
-<img src="https://github-readme-steam-status.vercel.app/status/?steamid=76561198241297500&show_recent_game_bg=true" align="left"/>
+  
+<a href="/">
+  <img src="https://github-readme-steam-status.vercel.app/status/?steamid=76561198241297500&show_recent_game_bg=true" align="left"/>
+</a>
 
 :video_game:
 - Favorite genres: Everything RPGs (ARPG, CRPG, etc...) and SoulsLike. Also, unfortunately, League of Legends.
 - GOATs (objective): Witcher 3, Baldur's Gate 3, Elden Ring, Sekiro.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>Parting words:</b> we're all in this together, you <b>matter</b> and you are <b>heard</b> big hugs and kisses. </em></img>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>Parting words:</b> we're all in this together, you <b>matter</b> and you are <b>heard</b>. big hugs and kisses. </em></img>
