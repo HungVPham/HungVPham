@@ -6,7 +6,7 @@ PS C:\Users\Documents\GitHub\Viet_Hung_Pham> Hello World, Gamers! 👋
   <a href="https://github.com/HungVPham">
     <img src="https://komarev.com/ghpvc/?username=HungVPham" alt="page views">
   </a>
-  <a href="https://github.com/dereknguyen269?tab=followers">
+  <a href="https://github.com/HungVPham?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/HungVPham?color=blue&logo=github">
   </a>
 </p>
