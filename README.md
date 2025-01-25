@@ -35,9 +35,9 @@ PS C:\Users\Documents\GitHub\Viet_Hung_Pham> Hello World, Gamers! 👋
 </td>
 <td width="50%">
 
- ### Unsolicited Opinions on Games
+ ### Unsolicited Media Opinions
 - 🕹️ Favorite genres: RPGs (ARPG, CRPG, even modern-day triple-A,...) and SoulsLike. Also, unfortunately, League of Legends.
-- 🎖️ GOATs (Objective, in this order): Witcher 3, Baldur's Gate 3, Elden Ring, Sekiro.
+- 🎖️ GOATs (objective, in this order): Witcher 3, Baldur's Gate 3, Elden Ring, Sekiro.
 
 </td>
 </tr>
