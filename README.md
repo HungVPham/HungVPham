@@ -1,4 +1,13 @@
 ## Hi there 👋
 
-[![HungVPham's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/HungVPham/#gh-dark-mode-only)
-[![HungVPham's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/HungVPha/#gh-dark-mode-only)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true&theme=react"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true" />
+</picture>s
