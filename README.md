@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<a href="#HungVPham-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true" alt="HungVPham" align="right" />
+</a>
+
 <!--
 **HungVPham/HungVPham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
