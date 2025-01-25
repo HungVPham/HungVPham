@@ -20,11 +20,11 @@ PS C:\Users\Documents\GitHub\Viet_Hung_Pham> Hello World, Gamers! 👋
 - :dart: Looking for full-time opportunities while honing my skills with side-projects.
   
 <a href="/">
-  <img src="https://github-readme-steam-status.vercel.app/status/?steamid=76561198241297500&show_recent_game_bg=true" align="left"/>
+  <img src="https://github-readme-steam-status.vercel.app/status/?steamid=76561198241297500&show_recent_game_bg=true" align="left" padding-right="10px" />
 </a>
 
-:video_game:
-- Favorite genres: Everything RPGs (ARPG, CRPG, etc...) and SoulsLike. Also, unfortunately, League of Legends.
-- GOATs (objective): Witcher 3, Baldur's Gate 3, Elden Ring, Sekiro.
+
+- :video_game: Favorite genres: Everything RPGs (ARPG, CRPG, etc...) and SoulsLike. Also, unfortunately, League of Legends.
+- 🎖️ GOATs (objective): Witcher 3, Baldur's Gate 3, Elden Ring, Sekiro.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>Parting words:</b> we're all in this together, you <b>matter</b> and you are <b>heard</b>. big hugs and kisses. </em></img>
