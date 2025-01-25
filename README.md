@@ -29,10 +29,9 @@ PS C:\Users\Documents\GitHub\Viet_Hung_Pham> Hello World, Gamers! 👋
   <img src="https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true" />
 </picture>
 
+<img src="https://github-readme-steam-status.vercel.app/status/?steamid=76561198241297500&show_recent_game_bg=true" align="left"/>
 :video_game:
 - Favorite genres: Everything RPGs (ARPG, CRPG, etc...) and SoulsLike. Also, unfortunately, League of Legends.
 - GOATs (objective): Witcher 3, Baldur's Gate 3, Elden Ring, Sekiro.
-
-<img src="https://github-readme-steam-status.vercel.app/status/?steamid=76561198241297500&show_recent_game_bg=true" align="left"/>
 
 <em><b>Parting words:</b> we're all in this together, you <b>matter</b> and you are <b>heard</b> big hugs and kisses. </em>
