@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![HungVPham's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true&theme=react#gh-dark-mode-only)](https://github.com/HungVPham/github-readme-stats#gh-dark-mode-only)
-[![HungVPham's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/HungVPham/github-readme-stats#gh-light-mode-only)
+[![HungVPham's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true&theme=react#gh-dark-mode-only)](/)
+[![HungVPham's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true&theme=default#gh-light-mode-only)](/)
 
 <!--
 **HungVPham/HungVPham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
