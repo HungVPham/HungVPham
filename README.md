@@ -15,10 +15,11 @@ PS C:\Users\Documents\GitHub\Viet_Hung_Pham> Hello World, Gamers! 👋
 <tr>
 <td width="50%">
 
-## About Lil' Ole Me
-- :house: Currently based in Wrocester, MA.
-- :computer: Computer nerd since 2008. Full-time software engineer since 2020.
-- :dart: Seeking full-time opportunities while honing my skills with side-projects.
+ ### About Lil' Ole Me
+- 📍 Currently based in Worcester, MA.
+- 👨‍💻 Computer nerd since 2008. Aspiring SWE since 2020.
+- 🎯 Seeking opportunities while developing side-projects.
+- 😎 Sarcastic 90% of the time - other 10% is unsure if I am being sarcastic. 
 
 </td>
 <td width="50%">
@@ -34,8 +35,8 @@ PS C:\Users\Documents\GitHub\Viet_Hung_Pham> Hello World, Gamers! 👋
 </td>
 <td width="50%">
 
-## Unsolicited Opinions on Games
-- :video_game: Favorite genres: RPGs (ARPG, CRPG) and SoulsLike. Also, unfortunately, League of Legends.
+ ### Unsolicited Opinions on Games
+- 🕹️ Favorite genres: RPGs (ARPG, CRPG, even modern-day triple-A,...) and SoulsLike. Also, unfortunately, League of Legends.
 - 🎖️ GOATs (Objective, in this order): Witcher 3, Baldur's Gate 3, Elden Ring, Sekiro.
 
 </td>
@@ -43,4 +44,4 @@ PS C:\Users\Documents\GitHub\Viet_Hung_Pham> Hello World, Gamers! 👋
 </table>
 
 ---
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">*Parting words: we're all in this together, you **matter** and you are **heard**. big hugs and kisses.* 🤗
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">*Parting words: we're all in this together, you **matter** and you are **heard**. big hugs and kisses.* ε(´｡•᎑•`)っ 💕
