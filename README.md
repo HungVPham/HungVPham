@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<a href="#HungVPham-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true" alt="HungVPham" align="right" />
+<a href="/">
+  <img src="https://github-readme-stats.vercel.app/api?username=HungVPham&show_icons=true" alt="HungVPham" theme="radical" align="right"  />
 </a>
 
 <!--
